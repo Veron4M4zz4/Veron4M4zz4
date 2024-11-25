@@ -1,13 +1,26 @@
 ## Hi there 👋
 About Me
 
-Olá! Me chamo Verona Mazza 👋 👋 Sobre Mim Sou uma programadora brasileira de 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas (SAD/ADS). Minha jornada começou na linguística, estudando idiomas na faculdade, antes de me apaixonar pelo mundo da programação. Apaixonada por programação, gerenciamento de times e desenvolvimento Full-stack 🌱
+Olá! Me chamo Verona Mazza 👋 👋
+Sobre Mim: Sou uma programadora brasileira de 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas (SAD/ADS). 
+Minha jornada começou na linguística, estudando idiomas na faculdade, antes de me apaixonar pelo mundo da programação. 
+Apaixonada por programação, gerenciamento de times e desenvolvimento Full-stack 🌱
 
-🌎 Idiomas que falo: Português Brasileiro 🇧🇷 Espanhol 🇪🇸 Inglês 🇺🇸 🇬🇧 Formada como Team Manager e Scrum Master pela ENAP em 2022 🎓👋 De linguística para a tecnologia: Uma jornada cheia de desafios e conquistas! 🌟 Amo explorar novas tecnologias, liderar equipes, jogar video games, tomar café e aprender sempre! 😀
+🌎 Idiomas que falo: 
+Português Brasileiro 🇧🇷 
+Espanhol 🇪🇸 
+Inglês 🇺🇸 🇬🇧 
+Formada como Team Manager e Scrum Master pela ENAP em 2022 🎓👋 
+De linguística para a tecnologia: Uma jornada cheia de desafios e conquistas! 🌟 
+Amo explorar novas tecnologias, liderar equipes, jogar video games, tomar café e aprender sempre! 😀
 
-🌟 Experiência Profissional: Engec Engenharia e Comércio LTDA 2020 - 2021 (Scrum Master) VortexTrip Software House 2022 - Atualmente (Coordenadora e Gerente de Projetos) Grupo Potencial 2021 - 2024 (Product Owner)
+🌟 Experiência Profissional: 
+Engec Engenharia e Comércio LTDA 2020 - 2021 (Scrum Master) 
+VortexTrip Software House 2022 - Atualmente (Coordenadora e Gerente de Projetos) 
+Grupo Potencial 2021 - 2024 (Product Owner)
 
-📚 Curiosidade: Sou uma entusiasta da programação, apaixonada por resolver problemas complexos e transformar ideias em soluções impactantes. Quando não estou programando, gosto de me aprofundar em novas tecnologias e aprimorar minhas habilidades.
+📚 Curiosidade: Sou uma entusiasta da programação, apaixonada por resolver problemas complexos e transformar ideias em soluções impactantes. 
+Quando não estou programando, gosto de me aprofundar em novas tecnologias e aprimorar minhas habilidades.
 
 Vamos construir algo incrível juntos! 🚀
 
