@@ -17,7 +17,7 @@ Amo explorar novas tecnologias, liderar equipes, jogar video games, tomar café 
 🌟 Experiência Profissional: 
 Engec Engenharia e Comércio LTDA 2020 - 2021 (Scrum Master) 
 VortexTrip Software House 2022 - Atualmente (Coordenadora e Gerente de Projetos) 
-Grupo Potencial 2021 - 2024 (Product Owner)
+Grupo Potencial 2021 - 2024 (Product Owner) - Orion Consultoria 2023 - 2024 (Desenvolvedora JR)
 
 📚 Curiosidade: Sou uma entusiasta da programação, apaixonada por resolver problemas complexos e transformar ideias em soluções impactantes. 
 Quando não estou programando, gosto de me aprofundar em novas tecnologias e aprimorar minhas habilidades.
